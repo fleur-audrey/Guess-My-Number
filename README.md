@@ -8,5 +8,4 @@ At the beginning of the game, player is allocated 3 free guesses and 150 points.
 Player will be offered the possibility to receive a hint after the free guesses are finished. There are a three guesses available after every three guesses from the player. The hints increase in points; the first hint is 5 points, the second hint is 10 points and the third IS 15 points.
 
 # Command
-After each game, player can choose to play again
-Player can end the game anytime by typing it "STOP"
+After each game, player can choose to play again. Player can end the game anytime by typing it "STOP"
